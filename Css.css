@@ -1,0 +1,152 @@
+  body {
+
+  font-family: "Roboto Mono", monospace;
+
+  text-align: center;
+
+  background-image: url("https://th.bing.com/th/id/OIP.NSZS37DK3ljuwZmWa5rq9gAAAA?pid=ImgDet&w=226&h=138&c=7&dpr=1,25");
+
+  background-color: #000000;
+
+  background-size: cover;
+
+  background-position: center top;
+
+  background-repeat: no-repeat;
+
+}
+
+#imersao {
+
+  color: #212121;
+
+}
+
+.container {
+
+  text-align: center;
+
+  padding: 20px;
+
+}
+
+.page-title {
+
+  color: #212121;
+
+  margin: 0 0 5px;
+
+}
+
+.page-subtitle {
+
+  color: #212121;
+
+  margin-top: 5px;
+
+}
+
+.page-logo {
+
+  width: 200px;
+
+}
+
+.alura-logo {
+
+  color: #212121;
+
+  width: 40px;
+
+  position: absolute;
+
+  top: 10px;
+
+  right: 10px;
+
+}
+
+#listaFilmes img {
+
+  margin: 10px;
+
+  max-height: 250px;
+
+}
+
+.form-wrapper {
+
+  margin: 0 0 15px;
+
+}
+
+.form-wrapper input {
+
+  display: block;
+
+  margin: 0 auto;
+padding: 10px 15px;
+
+}
+
+.form-wrapper button {
+
+  border: 0;
+
+  color: #ffffff;
+
+  background: #da1e26;
+
+  font-weight: bold;
+
+  padding: 15px 20px;
+
+  font-size: 16px;
+
+  border-radius: 4px;
+
+  margin-top: 20px;
+
+  cursor: pointer;
+
+  transition: 0.3s;
+
+}
+
+.form-wrapper button:hover {
+
+  opacity: 0.8;
+
+}
+
+#error {
+
+  color: #d50000;
+
+  font-size: 50px;
+
+}
+
+#listaFilmes {
+
+  font-family: "Open Sans", sans-serif;
+
+  color: #ffffff;
+
+  font-size: 20px;
+
+}
+
+#imersaodev {
+
+  size: 50px;
+
+}
+
+p {
+
+  color: #d32f2f;
+
+}
+
+h4 {
